@@ -1,0 +1,1 @@
+enum SharedPrefKeys { jwt, userName }
